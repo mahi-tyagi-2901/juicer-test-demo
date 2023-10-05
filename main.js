@@ -14,7 +14,7 @@ banner.innerHTML = `
             background-repeat: no-repeat;
             background-position-x: right;
             background-color: #E1EFE6;
-            padding: 37px 30px;
+            padding: 37px 0px 0px 30px;
         }
 
         .banner-content h2 {
@@ -24,7 +24,7 @@ banner.innerHTML = `
             font-style: normal;
             font-weight: 700;
             line-height: normal;
-            margin-bottom: 30px;
+            margin-bottom: 25px;
         }
 
         .banner-content h3 {
@@ -34,7 +34,7 @@ banner.innerHTML = `
             font-style: normal;
             font-weight: 400;
             line-height: normal;
-            margin-bottom: 30px;
+            margin-bottom: 25px;
         }
 
         .banner-content .why-us {
@@ -42,8 +42,8 @@ banner.innerHTML = `
             display: flex;
             justify-content: flex-start;
             align-items: baseline;
-            column-gap: 30px;
-            margin: 0px 385px 0px 0px;
+            column-gap: 15px;
+            padding: 0px 385px 20px 0px;
         }
 
         .banner-content .why-us .item p {
